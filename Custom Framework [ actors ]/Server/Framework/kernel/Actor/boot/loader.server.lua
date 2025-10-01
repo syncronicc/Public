@@ -1,0 +1,1 @@
+require(script.Parent).init(tick(),require(script.Parent.Parent.Parent.Parent.config))()
