@@ -1,5 +1,5 @@
 # Player Binder
-> A compact binder that tracks whenever a player joins/leaves or the character gets added/removed. It also send all the players / characters at once as a solution for when the server doesnt load fast enough.
+> A compact singleton binder that tracks whenever a player joins/leaves or the character gets added/removed. It also send all the players / characters at once as a solution for when the server doesnt load fast enough.
 
 > I highly recommend this instead of repeating the same code over and over again and its a better solution that gets EVERY player!
 # Usage
